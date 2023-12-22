@@ -710,4 +710,4 @@ Module1 - SQL and Relational Databases 101
 *Obtain an IBM Cloud Feature Code
 	IBM Cloud Feature Code obtained: 0e345936d8d4c1ed890eedd7d6f02be8
 
-*Lab 
+*Lab
